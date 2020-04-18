@@ -1,6 +1,6 @@
 # Demo video
 
-![video](video/video.mp4)
+![demo gif](gif/demo.gif)
 
 ## Features
 
