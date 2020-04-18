@@ -1,6 +1,6 @@
 # Demo video
 
-![video](video/video.webm)
+![video](video/video.mp4)
 
 ## Features
 
