@@ -7,7 +7,7 @@
 * 2x button
 * speed up audio
 
-#### credits
+### credits
 
 project based on an extension made by Programador BR tutorials.
 
