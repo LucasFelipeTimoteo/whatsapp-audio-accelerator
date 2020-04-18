@@ -1,4 +1,4 @@
-# Demo video
+# Demo GIF
 
 ![demo gif](gif/demo.gif)
 
