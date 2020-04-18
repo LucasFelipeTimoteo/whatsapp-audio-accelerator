@@ -1,7 +1,6 @@
 const interval = setInterval(() => {
     const header = document.querySelector("._3auIg")
     if (header) {
-        console.log(header)
         clearInterval(interval)
 
         const button = document.createElement('button')
